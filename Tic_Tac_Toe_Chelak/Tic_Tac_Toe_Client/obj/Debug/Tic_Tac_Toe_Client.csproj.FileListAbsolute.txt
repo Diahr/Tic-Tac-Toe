@@ -1,0 +1,10 @@
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\bin\Debug\Tic_Tac_Toe_Client.exe.config
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\bin\Debug\Tic_Tac_Toe_Client.exe
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\bin\Debug\Tic_Tac_Toe_Client.pdb
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.csprojAssemblyReference.cache
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.ticTacToe.resources
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.Properties.Resources.resources
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.csproj.GenerateResource.cache
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.exe
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.pdb
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Client\obj\Debug\Tic_Tac_Toe_Client.csproj.CoreCompileInputs.cache

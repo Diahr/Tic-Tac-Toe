@@ -1,0 +1,9 @@
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\bin\Debug\Tic_Tac_Toe_Server.exe.config
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\bin\Debug\Tic_Tac_Toe_Server.exe
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\bin\Debug\Tic_Tac_Toe_Server.pdb
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\obj\Debug\Tic_Tac_Toe_Server.csprojAssemblyReference.cache
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\obj\Debug\Tic_Tac_Toe_Server.exe
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\obj\Debug\Tic_Tac_Toe_Server.pdb
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\bin\Debug\tttDB.mdf
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\bin\Debug\tttDB_log.ldf
+C:\Users\ilyac\Desktop\Studying\Polytechnic University courses\semester 6\C# programming\Tic_Tac_Toe_Chelak\Tic_Tac_Toe_Server\obj\Debug\Tic_Tac_Toe_Server.csproj.CoreCompileInputs.cache
